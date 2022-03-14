@@ -4,3 +4,5 @@
 
 If you just randomly stumbled upon this, it will not help you in any way.<br>
 Sorry :(
+
+Php does not work on Github
